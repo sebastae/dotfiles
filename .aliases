@@ -1,0 +1,6 @@
+alias co="git checkout"
+alias ccbb="printf '' | xsel -b"
+alias sa="source ~/.aliases"
+alias ua="unalias"
+alias sz="source ~/.zshrc"
+alias sf="source ~/.bashfunc"
