@@ -1,0 +1,16 @@
+[Appearance]
+Skin=mocha
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=Default.profile
+
+[Dialogs]
+FirstRun=false
+
+[Notification Messages]
+hinding_title_bar=false
+
+[Window]
+Height=30
+ShowTitleBar=false
